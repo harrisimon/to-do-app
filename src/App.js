@@ -7,8 +7,6 @@ import ToDos from './components/ToDos';
 function App() {
   return (
     <>
-    
-      hi there
       <ToDos />
     </>
   );
